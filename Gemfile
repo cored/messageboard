@@ -14,6 +14,7 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 
 gem 'spring',        group: :development
 gem 'devise'
+gem 'simple_form'
 gem 'foundation-rails'
 gem 'autoprefixer-rails'
 
