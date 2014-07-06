@@ -14,7 +14,9 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 
 gem 'spring',        group: :development
 gem 'devise'
-gem 'boostrap-sass'
+gem 'foundation-rails'
+gem 'autoprefixer-rails'
+
 
 group :test, :development do 
   gem 'rspec-rails', '~> 3.0.0'
